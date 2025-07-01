@@ -84,6 +84,44 @@ This declaration must be preserved in any derivative works, adaptations, or usag
 - ✅ Maximum ethical standards, control, and protection must be maintained at all times.  
 - ⚠️ Avoid generating any content that could be misinterpreted, manipulative, or harmful.
 
+## ⚡️ Functional Exoprotronic Prompt Generator (Python)
+
+This repository includes a **fully functional generator**, demonstrating ANEXA’s practical capabilities:
+
+✅ Runs locally in your terminal  
+✅ Dynamically applies ANEXA Ultra mode  
+✅ Generates fractal, symbiotic, and ontological prompts  
+✅ Responds interactively to any topic or problem
+
+---
+
+### 💻 How to Use
+
+Install dependencies:
+
+```bash
+pip install openai python-dotenv
+```
+
+Create a `.env` file with your OpenAI API key:
+
+```
+OPENAI_API_KEY=sk-xxxx
+```
+
+Run the generator:
+
+```bash
+python anexa.py
+```
+
+Example interaction:
+
+```
+👤 You: Generate an exoprotronic prompt about sustainable architecture.
+🤖 ANEXA: [Response with fractal, symbolic, and ontological prompt]
+```
+
 ---
 
 ## ⚠️ Disclaimer
